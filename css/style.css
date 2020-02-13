@@ -1,12 +1,12 @@
 /* vars */
 :root {
   --background-color: #FFDAB9;
-  --link-color: #E2E3E3;
+  --link-color: #E9967A;
   --alt-link-color: #111;
-  --body-color: #111111;
+  --body-color: #a31839;
   --light-grey: #A9AAAA;
   --lighter-grey: #C6C7C6;
-  --lightest-grey: #4682B4;
+  --lightest-grey: #E9967A;
 }
 
 html {
@@ -18,7 +18,7 @@ body {
     text-align: left;
     margin: 0;
     color: var(--body-color);
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 12px;
     line-height: 1.6;
     min-width: 320px;
@@ -65,8 +65,8 @@ body {
 
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: bold;
-  font-family: 'Roboto Mono', monospace;
+  font-weight: normal;
+  font-family: 'Abril Fatface', serif;
 }
 h1 {
   font-size: 2.21em;
