@@ -166,169 +166,169 @@
 "data" : 
 [
   {
-    "Question 1": "FemaleNYR",
     "Question 2": "YesNYR",
-    "Question 3": "Hockey",
-    "Question 4": "NY Rangers",
+    "Question 1": "FemaleNYR",
     "Question 5": "5NYR",
-    "Question 6": "Sometimes",
+    "Question 6": "Sometimes", 
     "Question 7": "Sometimeshockey",
     "Question 8": "YesNYR",
-    "Question 9": "Sometimes"
+    "Question 9": "Sometimes",
+    "Question 4": "NY Rangers",
+    "Question 3": "Hockey"
   },
   {
-    "Question 1": "FemaleKCC",
     "Question 2": "SometimesKCC",
-    "Question 3": "Football",
-    "Question 4": "KC Chiefs",
+    "Question 1": "FemaleKCC",
     "Question 5": "2KCC",
     "Question 6": "No",
     "Question 7": "Sometimesfootball",
     "Question 8": "YesKCC",
-    "Question 9": "Yes"
+    "Question 9": "Yes",
+    "Question 4": "KC Chiefs",
+    "Question 3": "Football"
   },
   {
-    "Question 1": "MaleNEP",
     "Question 2": "SometimesNEP",
-    "Question 3": "Football",
-    "Question 4": "New England Patriots",
+    "Question 1": "MaleNEP",
     "Question 5": "2NEP",
     "Question 6": "No",
     "Question 7": "Nofootball",
     "Question 8": "NoNEP",
-    "Question 9": "Sometimes"
+    "Question 9": "Sometimes",
+    "Question 4": "New England Patriots",
+    "Question 3": "Football"
   },
   {
-    "Question 1": "MaleNYM",
     "Question 2": "YesNYM",
-    "Question 3": "Baseball",
-    "Question 4": "NY Mets",
+    "Question 1": "MaleNYM",
     "Question 5": "3NYM",
     "Question 6": "No",
     "Question 7": "Sometimesbaseball",
     "Question 8": "YesNYM",
-    "Question 9": "Not anymore"
+    "Question 9": "Not anymore",
+    "Question 4": "NY Mets",
+    "Question 3": "Baseball"
   },
   {
-    "Question 1": "MaleBRS",
     "Question 2": "YesBRS",
-    "Question 3": "Baseball",
-    "Question 4": "Boston Red Sox",
+    "Question 1": "MaleBRS",
     "Question 5": "3BRS",
     "Question 6": "Sometimes",
     "Question 7": "Sometimesbaseball",
     "Question 8": "NoBRS",
-    "Question 9": "Yes"
+    "Question 9": "Yes",
+    "Question 4": "Boston Red Sox",
+    "Question 3": "Baseball"
   },
   {
-    "Question 1": "MaleNYM",
     "Question 2": "YesNYM",
-    "Question 3": "Baseball",
-    "Question 4": "NY Mets",
+    "Question 1": "MaleNYM",
     "Question 5": "5NYM",
     "Question 6": "No",
     "Question 7": "Nobaseball",
     "Question 8": "NoNYM",
-    "Question 9": "No"
+    "Question 9": "No",
+    "Question 4": "NY Mets",
+    "Question 3": "Baseball"
   },
   {
-    "Question 1": "MaleBM",
     "Question 2": "YesBM",
-    "Question 3": "Soccer",
-    "Question 4": "Bayern Munich",
+    "Question 1": "MaleBM",
     "Question 5": "1BM",
     "Question 6": "Sometimes",
     "Question 7": "Yessoccer",
     "Question 8": "Maybe",
-    "Question 9": "Sometimes"
+    "Question 9": "Sometimes",
+    "Question 4": "Bayern Munich",
+    "Question 3": "Soccer"
   },
   {
-    "Question 1": "MaleNYR",
     "Question 2": "YesNYR",
-    "Question 3": "Hockey",
-    "Question 4": "NY Rangers",
+    "Question 1": "MaleNYR",
     "Question 5": "4NYR",
     "Question 6": "No",
     "Question 7": "Sometimeshockey",
     "Question 8": "NoNYR",
-    "Question 9": "Sometimes"
+    "Question 9": "Sometimes",
+    "Question 4": "NY Rangers",
+    "Question 3": "Hockey"
   },
   {
-    "Question 1": "MaleC",
     "Question 2": "SometimesC",
-    "Question 3": "Soccer",
-    "Question 4": "Chelsea",
-    "Question 5": "1C",
+    "Question 1": "MaleC",
+	"Question 5": "1C",
     "Question 6": "No",
     "Question 7": "Sometimessoccer",
     "Question 8": "YesC",
-    "Question 9": "Yes"
+    "Question 9": "Yes",
+    "Question 4": "Chelsea",
+    "Question 3": "Soccer"
   },
   {
-    "Question 1": "FemaleNYY",
     "Question 2": "SometimesNYY",
-    "Question 3": "Baseball",
-    "Question 4": "NY Yankees",
-    "Question 5": "2NYY",
+    "Question 1": "FemaleNYY",
+	"Question 5": "2NYY",
     "Question 6": "No",
     "Question 7": "Haven't seen itbaseball",
     "Question 8": "YesNYY",
-    "Question 9": "Sometimes"
+    "Question 9": "Sometimes",
+    "Question 4": "NY Yankees",
+    "Question 3": "Baseball"
   },
   {
-    "Question 1": "FemaleLAL",
     "Question 2": "YesLAL",
-    "Question 3": "Basketball",
-    "Question 4": "LA Lakers",
-    "Question 5": "3LAL",
+    "Question 1": "FemaleLAL",
+	"Question 5": "3LAL",
     "Question 6": "No",
     "Question 7": "Yesbasketball",
     "Question 8": "YesLAL",
-    "Question 9": "Yes"
+    "Question 9": "Yes",
+    "Question 4": "LA Lakers",
+    "Question 3": "Basketball",
   },
   {
-    "Question 1": "MaleGSW",
     "Question 2": "SometimesGSW",
-    "Question 3": "Basketball",
-    "Question 4": "Golden State Warriors",
-    "Question 5": "2GSW",
+    "Question 1": "MaleGSW",
+	"Question 5": "2GSW",
     "Question 6": "No",
     "Question 7": "Sometimesbasketball",
     "Question 8": "NoGSW",
-    "Question 9": "No"
+    "Question 9": "No",
+    "Question 4": "Golden State Warriors",
+    "Question 3": "Basketball"
   },
   {
-    "Question 1": "FemalePE",
     "Question 2": "YesPE",
-    "Question 3": "Football",
-    "Question 4": "Philidelphia Eagles",
-    "Question 5": "2PE",
+    "Question 1": "FemalePE",
+	"Question 5": "2PE",
     "Question 6": "No",
     "Question 7": "Haven't seen itfootball",
     "Question 8": "YesPE",
-    "Question 9": "Yes"
+    "Question 9": "Yes",
+    "Question 4": "Philidelphia Eagles",
+    "Question 3": "Football"
   },
   {
-    "Question 1": "FemaleCP",
     "Question 2": "YesCP",
-    "Question 3": "Football",
-    "Question 4": "Carolina Panthers",
-    "Question 5": "4CP",
+    "Question 1": "FemaleCP",
+ 	"Question 5": "4CP",
     "Question 6": "No",
     "Question 7": "Yesfootball",
     "Question 8": "YesCP",
-    "Question 9": "No"
+    "Question 9": "No",
+    "Question 4": "Carolina Panthers",
+    "Question 3": "Football"
   },
   {
-    "Question 1": "FemaleNYG",
     "Question 2": "YesNYG",
-    "Question 3": "Football",
-    "Question 4": "NY Giants",
-    "Question 5": "4NYG",
+    "Question 1": "FemaleNYG",
+	"Question 5": "4NYG",
     "Question 6": "No",
     "Question 7": "Yesfootball",
     "Question 8": "YesNYG",
-    "Question 9": "Yes"
+    "Question 9": "Yes",
+    "Question 4": "NY Giants",
+    "Question 3": "Football"
   }
 ]
 }
