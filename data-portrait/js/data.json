@@ -83,8 +83,8 @@
       "y" : 0,
       "Yesfootball" : "q7_yes_football.png",
       "Nofootball" : "q7_no_football.png",
-      "Sometimesfootball" : "q7_s_fooball.png",
-      "Haven't seen itfootball" : "q7_s_fooball.png",
+      "Sometimesfootball" : "q7_s_football.png",
+      "Haven't seen itfootball" : "q7_s_football.png",
       "Yesbaseball" : "q7_yes_baseball.png",
       "Nobaseball" : "q7_no_baseball.png",
       "Sometimesbaseball" : "q7_s_baseball.png",
@@ -156,7 +156,7 @@
       "y" : 0,
       "Football" : "q3_football.png",
       "Baseball" : "q3_baseball.png",
-      "Basketball" : "q3_soccer.png",
+      "Basketball" : "q3_basketball.png",
       "Hockey" : "q3_hockey.png",
       "Soccer" : "q3_soccer.png",
       "is_text" : false
@@ -166,7 +166,6 @@
 "data" : 
 [
   {
-    "": "Response 1",
     "Question 1": "FemaleNYR",
     "Question 2": "YesNYR",
     "Question 3": "Hockey",
@@ -178,19 +177,17 @@
     "Question 9": "Sometimes"
   },
   {
-    "": "Response 2",
     "Question 1": "FemaleKCC",
     "Question 2": "SometimesKCC",
     "Question 3": "Football",
     "Question 4": "KC Chiefs",
     "Question 5": "2KCC",
     "Question 6": "No",
-    "Question 7": "Sometimesfootbal",
+    "Question 7": "Sometimesfootball",
     "Question 8": "YesKCC",
     "Question 9": "Yes"
   },
   {
-    "": "Response 3",
     "Question 1": "MaleNEP",
     "Question 2": "SometimesNEP",
     "Question 3": "Football",
@@ -202,7 +199,6 @@
     "Question 9": "Sometimes"
   },
   {
-    "": "Response 4",
     "Question 1": "MaleNYM",
     "Question 2": "YesNYM",
     "Question 3": "Baseball",
@@ -214,7 +210,6 @@
     "Question 9": "Not anymore"
   },
   {
-    "": "Response 5",
     "Question 1": "MaleBRS",
     "Question 2": "YesBRS",
     "Question 3": "Baseball",
@@ -226,7 +221,6 @@
     "Question 9": "Yes"
   },
   {
-    "": "Response 6",
     "Question 1": "MaleNYM",
     "Question 2": "YesNYM",
     "Question 3": "Baseball",
@@ -238,7 +232,6 @@
     "Question 9": "No"
   },
   {
-    "": "Response 7",
     "Question 1": "MaleBM",
     "Question 2": "YesBM",
     "Question 3": "Soccer",
@@ -250,7 +243,6 @@
     "Question 9": "Sometimes"
   },
   {
-    "": "Response 8",
     "Question 1": "MaleNYR",
     "Question 2": "YesNYR",
     "Question 3": "Hockey",
@@ -262,7 +254,6 @@
     "Question 9": "Sometimes"
   },
   {
-    "": "Response 9",
     "Question 1": "MaleC",
     "Question 2": "SometimesC",
     "Question 3": "Soccer",
@@ -274,31 +265,6 @@
     "Question 9": "Yes"
   },
   {
-    "": "Response 10",
-    "Question 1": "FemaleNYG",
-    "Question 2": "YesNYG",
-    "Question 3": "Football",
-    "Question 4": "NY Giants",
-    "Question 5": "4NYG",
-    "Question 6": "No",
-    "Question 7": "Yesfootbal;",
-    "Question 8": "YesNYG",
-    "Question 9": "Yes"
-  },
-  {
-    "": "Response 11",
-    "Question 1": "FemaleCP",
-    "Question 2": "YesCP",
-    "Question 3": "Football",
-    "Question 4": "Carolina Panthers",
-    "Question 5": "4CP",
-    "Question 6": "No",
-    "Question 7": "Yesfootbal",
-    "Question 8": "YesCP",
-    "Question 9": "No"
-  },
-  {
-    "": "Response 12",
     "Question 1": "FemaleNYY",
     "Question 2": "SometimesNYY",
     "Question 3": "Baseball",
@@ -310,19 +276,6 @@
     "Question 9": "Sometimes"
   },
   {
-    "": "Response 13",
-    "Question 1": "FemalePE",
-    "Question 2": "YesPE",
-    "Question 3": "Football",
-    "Question 4": "Philidelphia Eagles",
-    "Question 5": "2PE",
-    "Question 6": "No",
-    "Question 7": "Haven't seen itfootball",
-    "Question 8": "YesPE",
-    "Question 9": "Yes"
-  },
-  {
-    "": "Response 14",
     "Question 1": "FemaleLAL",
     "Question 2": "YesLAL",
     "Question 3": "Basketball",
@@ -334,7 +287,6 @@
     "Question 9": "Yes"
   },
   {
-    "": "Response 15",
     "Question 1": "MaleGSW",
     "Question 2": "SometimesGSW",
     "Question 3": "Basketball",
@@ -344,6 +296,39 @@
     "Question 7": "Sometimesbasketball",
     "Question 8": "NoGSW",
     "Question 9": "No"
+  },
+  {
+    "Question 1": "FemalePE",
+    "Question 2": "YesPE",
+    "Question 3": "Football",
+    "Question 4": "Philidelphia Eagles",
+    "Question 5": "2PE",
+    "Question 6": "No",
+    "Question 7": "Haven't seen itfootball",
+    "Question 8": "YesPE",
+    "Question 9": "Yes"
+  },
+  {
+    "Question 1": "FemaleCP",
+    "Question 2": "YesCP",
+    "Question 3": "Football",
+    "Question 4": "Carolina Panthers",
+    "Question 5": "4CP",
+    "Question 6": "No",
+    "Question 7": "Yesfootball",
+    "Question 8": "YesCP",
+    "Question 9": "No"
+  },
+  {
+    "Question 1": "FemaleNYG",
+    "Question 2": "YesNYG",
+    "Question 3": "Football",
+    "Question 4": "NY Giants",
+    "Question 5": "4NYG",
+    "Question 6": "No",
+    "Question 7": "Yesfootball",
+    "Question 8": "YesNYG",
+    "Question 9": "Yes"
   }
 ]
 }
