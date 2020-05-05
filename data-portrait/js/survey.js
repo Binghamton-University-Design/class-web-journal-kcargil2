@@ -33,7 +33,7 @@ class Answer {
         //console.log('ok');
         fill(239, 173, 27);
         textSize(43);
-        textFont('C-Medium');
+        textFont('Helvetica');
         textLeading(60)
         text(this.imgtext+'!', this.x, this.y, 460);
         //
