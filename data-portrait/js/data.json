@@ -74,7 +74,7 @@
       "x" : 0,
       "y" : 0,
       "Yes" : "q6_yes.png",
-      "No" : "q6_not.png",
+      "No" : "q6_no.png",
       "Sometimes" : "q6_sometimes.png",
       "is_text" : false
     },
