@@ -73,9 +73,9 @@
     "Question 6": {
       "x" : 0,
       "y" : 0,
-      "Yes" : "",
-      "No" : "",
-      "Sometimes" : "",
+      "Yes" : "q6_yes.png",
+      "No" : "q6_not.png",
+      "Sometimes" : "q6_sometimes.png",
       "is_text" : false
     },
     "Question 7": {
@@ -106,18 +106,30 @@
     "Question 8": {
       "x" : 0,
       "y" : 0,
-      "Yes" : "",
-      "No" : "",
-      "Maybe" : "",
+      "YesC" : "q8_yes_c.png",
+      "YesCP" : "q8_yes_cp.png",
+      "YesKCC" : "q8_yes_kcc.png",
+      "YesLAL" : "q8_yes_lal.png",
+      "YesNYG" : "q8_yes_nyg.png",
+      "YesNYM" : "q8_yes_nym.png",
+      "YesNYR" : "q8_yes_nyr.png",
+      "YesNYY" : "q8_yes_nyy.png",
+      "YesPE" : "q8_yes_pe.png",
+      "NoNYR" : "q8_no_nyr.png",
+      "NoNYM" : "q8_no_nym.png",
+      "NoNEP" : "q8_no_nep.png",
+      "NoGSW" : "q8_no_gsw.png",
+      "NoBRS" : "q8_no_brs.png",
+      "Maybe" : "q8_maybe_bm.png",
       "is_text" : false
     },
     "Question 9": {
       "x" : 0,
       "y" : 0,
-      "Yes" : "",
-      "No" : "",
-      "Not anymore" : "",
-      "Sometimes" : "",
+      "Yes" : "q9_yes.png",
+      "No" : "q9_no.png",
+      "Not anymore" : "q9_notanymore.png",
+      "Sometimes" : "q9_sometimes.png",
       "is_text" : false
     },
     "Question 4": {
@@ -162,7 +174,7 @@
     "Question 5": "5NYR",
     "Question 6": "Sometimes",
     "Question 7": "Sometimeshockey",
-    "Question 8": "Yes",
+    "Question 8": "YesNYR",
     "Question 9": "Sometimes"
   },
   {
@@ -174,7 +186,7 @@
     "Question 5": "2KCC",
     "Question 6": "No",
     "Question 7": "Sometimesfootbal",
-    "Question 8": "Yes",
+    "Question 8": "YesKCC",
     "Question 9": "Yes"
   },
   {
@@ -186,7 +198,7 @@
     "Question 5": "2NEP",
     "Question 6": "No",
     "Question 7": "Nofootball",
-    "Question 8": "No",
+    "Question 8": "NoNEP",
     "Question 9": "Sometimes"
   },
   {
@@ -198,7 +210,7 @@
     "Question 5": "3NYM",
     "Question 6": "No",
     "Question 7": "Sometimesbaseball",
-    "Question 8": "Yes",
+    "Question 8": "YesNYM",
     "Question 9": "Not anymore"
   },
   {
@@ -210,7 +222,7 @@
     "Question 5": "3BRS",
     "Question 6": "Sometimes",
     "Question 7": "Sometimesbaseball",
-    "Question 8": "No",
+    "Question 8": "NoBRS",
     "Question 9": "Yes"
   },
   {
@@ -222,7 +234,7 @@
     "Question 5": "5NYM",
     "Question 6": "No",
     "Question 7": "Nobaseball",
-    "Question 8": "No",
+    "Question 8": "NoNYM",
     "Question 9": "No"
   },
   {
@@ -246,7 +258,7 @@
     "Question 5": "4NYR",
     "Question 6": "No",
     "Question 7": "Sometimeshockey",
-    "Question 8": "No",
+    "Question 8": "NoNYR",
     "Question 9": "Sometimes"
   },
   {
@@ -258,7 +270,7 @@
     "Question 5": "1C",
     "Question 6": "No",
     "Question 7": "Sometimessoccer",
-    "Question 8": "Yes",
+    "Question 8": "YesC",
     "Question 9": "Yes"
   },
   {
@@ -270,7 +282,7 @@
     "Question 5": "4NYG",
     "Question 6": "No",
     "Question 7": "Yesfootbal;",
-    "Question 8": "Yes",
+    "Question 8": "YesNYG",
     "Question 9": "Yes"
   },
   {
@@ -282,7 +294,7 @@
     "Question 5": "4CP",
     "Question 6": "No",
     "Question 7": "Yesfootbal",
-    "Question 8": "Yes",
+    "Question 8": "YesCP",
     "Question 9": "No"
   },
   {
@@ -294,7 +306,7 @@
     "Question 5": "2NYY",
     "Question 6": "No",
     "Question 7": "Haven't seen itbaseball",
-    "Question 8": "Yes",
+    "Question 8": "YesNYY",
     "Question 9": "Sometimes"
   },
   {
@@ -306,7 +318,7 @@
     "Question 5": "2PE",
     "Question 6": "No",
     "Question 7": "Haven't seen itfootball",
-    "Question 8": "Yes",
+    "Question 8": "YesPE",
     "Question 9": "Yes"
   },
   {
@@ -318,7 +330,7 @@
     "Question 5": "3LAL",
     "Question 6": "No",
     "Question 7": "Yesbasketball",
-    "Question 8": "Yes",
+    "Question 8": "YesLAL",
     "Question 9": "Yes"
   },
   {
@@ -330,7 +342,7 @@
     "Question 5": "2GSW",
     "Question 6": "No",
     "Question 7": "Sometimesbasketball",
-    "Question 8": "No",
+    "Question 8": "NoGSW",
     "Question 9": "No"
   }
 ]
