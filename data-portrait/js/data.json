@@ -179,7 +179,7 @@
   },
   {
     "": "Response 2",
-    "Question 1": "Female",
+    "Question 1": "FemaleKCC",
     "Question 2": "SometimesKCC",
     "Question 3": "Football",
     "Question 4": "KC Chiefs",
@@ -191,7 +191,7 @@
   },
   {
     "": "Response 3",
-    "Question 1": "Male",
+    "Question 1": "MaleNEP",
     "Question 2": "SometimesNEP",
     "Question 3": "Football",
     "Question 4": "New England Patriots",
@@ -203,7 +203,7 @@
   },
   {
     "": "Response 4",
-    "Question 1": "Male",
+    "Question 1": "MaleNYM",
     "Question 2": "YesNYM",
     "Question 3": "Baseball",
     "Question 4": "NY Mets",
@@ -215,7 +215,7 @@
   },
   {
     "": "Response 5",
-    "Question 1": "Male",
+    "Question 1": "MaleBRS",
     "Question 2": "YesBRS",
     "Question 3": "Baseball",
     "Question 4": "Boston Red Sox",
@@ -227,7 +227,7 @@
   },
   {
     "": "Response 6",
-    "Question 1": "Male",
+    "Question 1": "MaleNYM",
     "Question 2": "YesNYM",
     "Question 3": "Baseball",
     "Question 4": "NY Mets",
@@ -239,7 +239,7 @@
   },
   {
     "": "Response 7",
-    "Question 1": "Male",
+    "Question 1": "MaleBM",
     "Question 2": "YesBM",
     "Question 3": "Soccer",
     "Question 4": "Bayern Munich",
@@ -251,7 +251,7 @@
   },
   {
     "": "Response 8",
-    "Question 1": "Male",
+    "Question 1": "MaleNYR",
     "Question 2": "YesNYR",
     "Question 3": "Hockey",
     "Question 4": "NY Rangers",
@@ -263,7 +263,7 @@
   },
   {
     "": "Response 9",
-    "Question 1": "Male",
+    "Question 1": "MaleC",
     "Question 2": "SometimesC",
     "Question 3": "Soccer",
     "Question 4": "Chelsea",
@@ -275,7 +275,7 @@
   },
   {
     "": "Response 10",
-    "Question 1": "Female",
+    "Question 1": "FemaleNYG",
     "Question 2": "YesNYG",
     "Question 3": "Football",
     "Question 4": "NY Giants",
@@ -287,7 +287,7 @@
   },
   {
     "": "Response 11",
-    "Question 1": "Female",
+    "Question 1": "FemaleCP",
     "Question 2": "YesCP",
     "Question 3": "Football",
     "Question 4": "Carolina Panthers",
@@ -299,7 +299,7 @@
   },
   {
     "": "Response 12",
-    "Question 1": "Female",
+    "Question 1": "FemaleNYY",
     "Question 2": "SometimesNYY",
     "Question 3": "Baseball",
     "Question 4": "NY Yankees",
@@ -311,7 +311,7 @@
   },
   {
     "": "Response 13",
-    "Question 1": "Female",
+    "Question 1": "FemalePE",
     "Question 2": "YesPE",
     "Question 3": "Football",
     "Question 4": "Philidelphia Eagles",
@@ -323,7 +323,7 @@
   },
   {
     "": "Response 14",
-    "Question 1": "Female",
+    "Question 1": "FemaleLAL",
     "Question 2": "YesLAL",
     "Question 3": "Basketball",
     "Question 4": "LA Lakers",
@@ -335,7 +335,7 @@
   },
   {
     "": "Response 15",
-    "Question 1": "Male",
+    "Question 1": "MaleGSW",
     "Question 2": "SometimesGSW",
     "Question 3": "Basketball",
     "Question 4": "Golden State Warriors",
