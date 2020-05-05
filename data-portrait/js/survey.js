@@ -1,4 +1,4 @@
-let responseIndex = 3;
+let responseIndex = 0;
 
 // Answer class
 class Answer {
@@ -59,8 +59,11 @@ function preload() {
 }
 
 function loadData(r) {
+  //bg = loadImage('images/background.png');
   let responseData = data['data'];
   let responseKey = data['key'];
+
+  //console.log(responseKey);
 
   for (let i = 0; i < responseData.length; i++) {
     //console.log(i+'-------------------------------');
@@ -71,18 +74,32 @@ function loadData(r) {
     var res = Object.entries(response);
 
     for (const [question, answer] of res) {
-      //console.log(`${question} and ${answer}`);
+      console.log(`${question} and ${answer}`);
       let imgtext = '';
       let key = responseKey[question];
+      let ans = key[answer];
       let x = key['x'];
       let y = key['y'];
       let is_text = key['is_text'];
+      let determined_by = key['determined_by'];
+
+      if(determined_by){
+        console.log('det? '+determined_by);
+        let det = responseKey[determined_by]
+        let q = response[determined_by]
+        let imdet = det[q]
+        imdet = imdet.substr(0, imdet.lastIndexOf("."))
+        let imkey = key[answer];
+        imkey = imkey.substr(0, imkey.lastIndexOf("."))
+        console.log(imkey+imdet+'.png');
+        ans = imkey+imdet+'.png';
+      }
 
       if(is_text == true){
         //console.log(answer);
         imgtext = answer;
       } else {
-        imgtext = key[answer];
+        imgtext = ans;
         //console.log(imgtext);
       }
 
@@ -112,6 +129,7 @@ function setup() {
 
 function draw() {
   background(0);
+  //image(bg, 0, 0);
 
   // Display all answers
   for (let i = 0; i < answers.length; i++) {
